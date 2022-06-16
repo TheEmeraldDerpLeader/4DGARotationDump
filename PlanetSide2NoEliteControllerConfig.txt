@@ -1,0 +1,9 @@
+Paddles Unused, Still needs aircraft control. 
+
+Explanation: Currently two action sets, infantry (default) and vehicle, switch by double pressing right-select. Note that to interact/leave vehicle is bound to soft LT for infantry, but left joystick press for vehicles. 
+
+For infantry: Use numbers, flashlight, etc... via the hotkey menu on the D-Pad (should work with default controls). Soft LT is interact, but it also reduces sensitivity. Also Full LT + Right joystick press is left shift, i.e. holding breath while scoping.
+
+For vehicles: Similarly, use D-Pad for hotkey menu. To change seats, press y before choosing a hotkey-- headlights + y is seat 1, and so on going left. 
+
+Lastly, to change mini-map size, hold down left button/trigger and hold left select. Good luck without aim assist. Brought to you by VS.
